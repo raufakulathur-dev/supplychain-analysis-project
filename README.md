@@ -11,3 +11,21 @@
 
 
 ## $${\color{blue}\text{2. Business Context and Objectives}}$$
+
+  The company operates a global e-commerce platform selling products across categories including sporting goods, fitness equipment, outdoor gear, footwear, and apparel across multiple international regions.
+
+## $${\color{light blue}\text{Core Business Problem}}$$
+
+  Actual shipping times frequently deviate from scheduled delivery windows, creating eroded customer trust, reduced order profitability, and an inability to make reliable commitments to buyers at point of purchase.
+
+## $${\color{light blue}\text{Analytical Objectives}}$$
+
+  •	Understand the current state of delivery performance across all dimensions (region, mode, time, segment)
+  •	Quantify the financial impact of delays on order profitability
+  •	Identify the primary operational bottlenecks driving late deliveries
+  •	Build a predictive model to flag high-risk orders before they are shipped
+  •	Deliver actionable recommendations to improve on-time delivery and profitability
+
+## $${\color{blue}\text{3. Key Performance Indicators (KPIs)}}$$
+
+  <img width="1643" height="607" alt="Screenshot 2026-08-01 134719" src="https://github.com/user-attachments/assets/e39e2ff5-d9dc-408c-b4a8-60868429a06a" />
