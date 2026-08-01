@@ -14,11 +14,11 @@
 
   The company operates a global e-commerce platform selling products across categories including sporting goods, fitness equipment, outdoor gear, footwear, and apparel across multiple international regions.
 
-## $${\color{light blue}\text{Core Business Problem}}$$
+## $${\color{lightblue}\text{Core Business Problem}}$$
 
   Actual shipping times frequently deviate from scheduled delivery windows, creating eroded customer trust, reduced order profitability, and an inability to make reliable commitments to buyers at point of purchase.
 
-## $${\color{light blue}\text{Analytical Objectives}}$$
+## $${\color{lightblue}\text{Analytical Objectives}}$$
 
   •	Understand the current state of delivery performance across all dimensions (region, mode, time, segment)
   •	Quantify the financial impact of delays on order profitability
