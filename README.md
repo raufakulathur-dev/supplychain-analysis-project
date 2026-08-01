@@ -28,4 +28,17 @@
 
 ## $${\color{blue}\text{3. Key Performance Indicators (KPIs)}}$$
 
+  The following KPIs were computed directly from the cleaned dataset to establish a performance baseline.
+
   <img width="1643" height="607" alt="Screenshot 2026-08-01 134719" src="https://github.com/user-attachments/assets/e39e2ff5-d9dc-408c-b4a8-60868429a06a" />
+
+  <img width="1594" height="914" alt="Screenshot 2026-08-01 135056" src="https://github.com/user-attachments/assets/bfbb6688-a002-4c85-9e7a-44974bc0ee69" />
+
+
+## $${\color{blue}\text{4. Profitability Analysis}}$$
+
+## $${\color{lightblue}\text{4.1 Profitability Distribution}}$$
+
+  Order-level profitability was classified into three tiers based on Order Profit Per Order. While 80.7% of orders are profitable, the 18.7% loss-making share represents a meaningful drag that is disproportionately concentrated among delayed shipments.
+
+  <img width="959" height="710" alt="Screenshot 2026-08-01 135232" src="https://github.com/user-attachments/assets/3d94a06f-1347-4e73-994a-04cba373741d" />
