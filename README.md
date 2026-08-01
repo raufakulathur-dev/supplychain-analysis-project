@@ -10,4 +10,4 @@
 <img width="1506" height="597" alt="Screenshot 2026-08-01 121926" src="https://github.com/user-attachments/assets/7384e689-1c99-4b8b-ba6d-8788380d8308" />
 
 
-## $${\color{blue}\text{2. Business Context & Objectives}}$$
+## $${\color{blue}\text{2. Business Context and Objectives}}$$
