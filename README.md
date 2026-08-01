@@ -20,11 +20,11 @@
 
 ## $${\color{lightblue}\text{Analytical Objectives}}$$
 
-  •	Understand the current state of delivery performance across all dimensions (region, mode, time, segment)
-  •	Quantify the financial impact of delays on order profitability
-  •	Identify the primary operational bottlenecks driving late deliveries
-  •	Build a predictive model to flag high-risk orders before they are shipped
-  •	Deliver actionable recommendations to improve on-time delivery and profitability
+*	Understand the current state of delivery performance across all dimensions (region, mode, time, segment)
+*	Quantify the financial impact of delays on order profitability
+  *	Identify the primary operational bottlenecks driving late deliveries
+  *	Build a predictive model to flag high-risk orders before they are shipped
+* Deliver actionable recommendations to improve on-time delivery and profitability
 
 ## $${\color{blue}\text{3. Key Performance Indicators (KPIs)}}$$
 
@@ -43,7 +43,7 @@
 
   <img width="959" height="710" alt="Screenshot 2026-08-01 135232" src="https://github.com/user-attachments/assets/3d94a06f-1347-4e73-994a-04cba373741d" />
 
-## $${\color{lightblue}\text{4.2 Delay Distribution & Profit vs. Delay Days}}$$
+## $${\color{lightblue}\text{4.2 Delay Distribution and Profit vs. Delay Days}}$$
 
   The delay distribution shows that 31.0% of all orders arrive exactly 1 day late the single largest cohort. combined, orders delayed by 1-4 days account for 54.7% of all order volume, directly mapping to the overall late delivery rate.
 
@@ -71,7 +71,8 @@
 
   Three temporal dimensions were analyzed: month of year, day of week, and hour of day. While delay rates are relatively stable across all dimensions (53-57%), specific peaks highlight opportunities for targeted capacity planning.
 
-  <img width="1459" height="789" alt="Screenshot 2026-08-01 140044" src="https://github.com/user-attachments/assets/962c1f50-6884-42c2-b0bb-442d24cdc676" />
+  <img width="1593" height="1636" alt="Screenshot 2026-08-01 140219" src="https://github.com/user-attachments/assets/8cab60c4-451b-4257-aa8b-2b5004c600e8" />
+
 
 ## $${\color{blue}\text{8. Strategic Recommendations}}$$  
 
