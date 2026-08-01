@@ -1,6 +1,6 @@
 # $${\color{green}SUPPLY \space CHAIN \space DELIVERY \space PERFORMANCE \space REPORT}$$
 
-## End-to-End Order Fulfillment Analysis
+## $${\color{green}\text{End-to-End Order Fulfillment Analysis}}$$
 
 ## 1. Executive Summary
 
