@@ -1,6 +1,5 @@
-# SUPPLY CHAIN
-DELIVERY PERFORMANCE
-REPORT
+# SUPPLY CHAIN DELIVERY PERFORMANCE REPORT
+
 ## End-to-End Order Fulfillment Analysis
 
 ## 1. Executive Summary
