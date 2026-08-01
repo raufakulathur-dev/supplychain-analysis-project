@@ -1,4 +1,4 @@
-# $${\color{green}\text{SUPPLY CHAIN DELIVERY PERFORMANCE REPORT}$$
+# $${\color{green}\SUPPLY CHAIN DELIVERY PERFORMANCE REPORT}$$
 
 ## End-to-End Order Fulfillment Analysis
 
